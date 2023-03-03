@@ -1,0 +1,10 @@
+document.write ('<td colspan="2"> ');
+document.write ('<nav class="navi">');
+document.write ('<ul>');
+document.write ('<li><a href="home.html">Home</a></li>');
+document.write ('<li><a href="aboutme.html">About Me</a></li>');
+document.write ('<li><a href="resume.html">Resume</a></li>');
+document.write ('<li><a href="#">Contact Me</a></li>');
+document.write ('</ul>');
+document.write ('</nav>');
+document.write ('</td>');

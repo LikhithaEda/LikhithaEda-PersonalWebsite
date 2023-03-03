@@ -1,0 +1,83 @@
+/* Add a black background color to the top navigation */
+nav {
+    background-color: #458e6c;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+  }
+  
+  a:hover {
+    background-color: #555;
+  }
+  
+  .container1 {
+    margin: auto; 
+    text-align: center;
+    width: 80%;
+    
+  }
+  .about {
+    font-family: monospace;
+  }
+  table {
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(40, 82, 101);
+    width: 80%;
+  }
+
+  td {
+    padding: 10px;
+    background-color: hsl(60, 23%, 92%);
+    
+    font-size: 12px;
+  }
+
+  p {
+    color:rgb(40, 82, 101)
+  }
+
+  h1 {
+    font-family: cursive;
+  }
+
+  .button1 {
+    background-color: #458e6c;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+  }
+
+  body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+}
